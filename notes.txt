@@ -1,0 +1,23 @@
+#score{
+    font-size: x-large;
+    margin: 20px;
+}
+
+#timer{
+    font-size: x-large;
+    float: right;
+    margin: 50px;
+}
+
+#sketch2bdrawn{
+    color: cadetblue;
+    font-size: x-large;
+}
+
+#your_sketch{
+    font-size: x-large;
+}
+
+#confidence{
+    font-size: x-large;
+}
